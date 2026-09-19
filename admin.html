@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ink Trail Admin</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="admin-page">
+<main class="admin-shell">
+  <section id="loginPanel" class="login-panel" aria-labelledby="loginTitle">
+    <p class="kicker">ADMIN AREA</p>
+    <h1 id="loginTitle">Sign in to the Ink Trail</h1>
+    <p>Enter the administrator password to continue.</p>
+    <form id="adminLoginForm">
+      <label for="adminPassword">Password</label>
+      <input id="adminPassword" name="password" type="password" autocomplete="current-password" required>
+      <button class="btn" type="submit">Sign in</button>
+      <p id="loginError" class="login-error" role="alert" hidden></p>
+    </form>
+  </section>
+
+  <section id="adminDashboard" class="admin-dashboard" style="display: none;" aria-live="polite">
+    <p class="kicker">ADMIN HUB</p>
+    <h1>Manage the Ink Trail</h1>
+    <section class="admin-panel">
+      <h2>Test or reset progress</h2>
+      <p>These controls affect stamps saved in this browser only.</p>
+      <div id="stampControls" class="stamp-controls"></div>
+      <button class="btn secondary" id="adminReset" type="button">Reset all collected stamps</button>
+    </section>
+    <h2>Print your stamp QR codes</h2>
+    <p>Each QR code points to a different stamp number. Print this page, cut the codes apart, and place one at each stamp location.</p>
+    <div class="admin-controls">
+      <label for="baseInput">Base URL:</label>
+      <input id="baseInput" type="text">
+      <button class="btn secondary" id="printBtn" type="button">Print</button>
+    </div>
+    <div class="qr-grid" id="qrGrid"></div>
+  </section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
