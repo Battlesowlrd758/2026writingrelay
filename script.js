@@ -7,9 +7,9 @@
   // One story fragment per stamp, revealed in order as stamps are collected.
   // Rewrite these with your own story — keep the array length equal to TOTAL_STAMPS.
   var STORY = [
-    "The well wasn’t there yesterday, but it's here now. No big deal, right? It’s just a new well. Normally, I’d agree with you. But who digs a well in the middle of the woods? And why does it look like some well made in the sixteenth century, rough rocks the size of bricks making a circle, moss growing on the stones as if they’ve grown there since dinosaurs walked the Earth? Do I even really want these questions answered? I’ve walked these woods by my house for years and have never seen a well here. Or anywhere in the woods. Sometimes I see old foundations of houses grown over with weeds and trees. There is even a collapsed cellar from about two hundred years ago, a perfect place to duck into during a game of hide and seek. On my thirteenth birthday last year, I even discovered an old cobblestone road hidden under twenty centimeters of dirt. But this clearing in the woods never had a well, and a well doesn’t just appear like this suddenly.\n\nAt first I wanted to look in the well. I got close to the edge but chickened out. I’m not sure why. A cold feeling came over me, and I couldn’t push myself to get near the edge and peek down. Maybe it was just the strangeness of it all.\n\nMy next idea was to ask my dad.",
+    "The well wasn't there yesterday, but it's here now. No big deal, right? It's just a new well. Normally, I'd agree with you. But who digs a well in the middle of the woods? And why does it look like some well made in the sixteenth century, rough rocks the size of bricks making a circle, moss growing on the stones as if they've grown there since dinosaurs walked the Earth? Do I even really want these questions answered? I've walked these woods by my house for years and have never seen a well here. Or anywhere in the woods. Sometimes I see old foundations of houses grown over with weeds and trees. There is even a collapsed cellar from about two hundred years ago, a perfect place to duck into during a game of hide and seek. On my thirteenth birthday last year, I even discovered an old cobblestone road hidden under twenty centimeters of dirt. But this clearing in the woods never had a well, and a well doesn't just appear like this suddenly.\n\nAt first I wanted to look in the well. I got close to the edge but chickened out. I'm not sure why. A cold feeling came over me, and I couldn't push myself to get near the edge and peek down. Maybe it was just the strangeness of it all.\n\nMy next idea was to ask my dad.",
     "As I was healing back, I saw some more things that probably weren't there at first, red mushrooms and some red flowers that I couldn't tell the name of, no big deal probably. Making my way back to the house, the red flowers were still around the forest, maybe with some white ones. I made it back home but I surprisingly didn't see any squirrels like I usually do, that was strange. I opened the door to my house to ask my dad about it.",
-    "I went upstairs beneath the silence to my room. Cozy as always, though today it wasn’t. Strange, wasn’t it? Maybe my senses faded out and I’m a rock now. I sat on my bed and glanced at different parts of my room. A foot away from me, the stack of paper I kept on top of my desk fell onto the floor, yet no window was open whatsoever for wind to come in.\n\nI picked it up, and placed it next to me, when I caught a glimpse of an old letter sitting right in the middle of the desk in the corner of my eye. It was rigid, but felt like a letter given from the medieval ages. In it said;\n\nDesolate it may be, it thrived with life.\n\nAt least that was once in the timeline.\n\nAn old book fell downstairs, and now vines cover it.\n\nMaybe even moss.\n\nIt had a tale.\n\nDeciphering it required knowledge.\n\nBut even then, after stacks of paperwork and bookshelves,\n\nIt wasn’t close to enough.\n\nA sigil may open that door,\n\nBut will never unlock the Stratum.\n\nThe Arbiter once must hold that secret within, for years,\n\nBut a Paragon will hold it forever.\n\nI read it over and over, until the words didn’t make sense to me anymore, sort of like jamais vu. In the letter, I also found a key. The moment I held it, zephyr around me gushed and the door on the closet opened wistfully.\n\nBehind it, a dim light of wisp-glow shone right at me, so bright but so dim. Strange, I thought. I have to ask my father about it.",
+    "I went upstairs beneath the silence to my room. Cozy as always, though today it wasn't. Strange, wasn't it? Maybe my senses faded out and I'm a rock now. I sat on my bed and glanced at different parts of my room. A foot away from me, the stack of paper I kept on top of my desk fell onto the floor, yet no window was open whatsoever for wind to come in.\n\nI picked it up, and placed it next to me, when I caught a glimpse of an old letter sitting right in the middle of the desk in the corner of my eye. It was rigid, but felt like a letter given from the medieval ages. In it said;\n\nDesolate it may be, it thrived with life.\n\nAt least that was once in the timeline.\n\nAn old book fell downstairs, and now vines cover it.\n\nMaybe even moss.\n\nIt had a tale.\n\nDeciphering it required knowledge.\n\nBut even then, after stacks of paperwork and bookshelves,\n\nIt wasn't close to enough.\n\nA sigil may open that door,\n\nBut will never unlock the Stratum.\n\nThe Arbiter once must hold that secret within, for years,\n\nBut a Paragon will hold it forever.\n\nI read it over and over, until the words didn't make sense to me anymore, sort of like jamais vu. In the letter, I also found a key. The moment I held it, zephyr around me gushed and the door on the closet opened wistfully.\n\nBehind it, a dim light of wisp-glow shone right at me, so bright but so dim. Strange, I thought. I have to ask my father about it.",
     "I stepped closer to the closet, but stopped just short before I could reach. The lights coming from inside flickered, almost like a candle trying to decide whether it wanted to stay lit or not.\n\nI had no idea what that wisp of glow was, or why a key I had never seen opened my closet by itself. I really wanted to shut the door and go under the bed like nothing ever happened,but the curiosity inside me got the better of me. WIth a mixed feeling of anxiety, nervous, and curiosity I reached my hand towards the opening. I felt something that I felt before. It was the same cold feeling from the well in the woods. Whatever was inside this closet, I had a feeling it wasn't something that had been in there yesterday. I took one more tiny step towards it and peeked inside. There were no clothes, boxes, hangers, or the old junk like there was from my 6th birthday. Instead, there was a narrow stone staircase leading downwards, which I couldn't see until the end. I froze for a while, wondering how that possibly could be there. Then from the bottom of the staircase, I heard something quiet. It sounded like something scraping against the stone. The sound got bigger, closer. I instinctively shut the closet. Maybe asking about the well could wait. Maybe I should ask him about the closet first.",
     "A neighbor remembered the sound of typewriters through the ceiling — always after dark, always followed by laughter.",
     "The sixth fragment was water-stained, as if it had waited a long time in someone's coat pocket before being found.",
@@ -24,6 +24,23 @@
 
   // Add Japanese versions here later, in the same order as STORY.
   var STORY_JA = Array(TOTAL_STAMPS).fill("ここに日本語のストーリーを追加してください。");
+
+  // Optional hint shown next to each LOCKED journal entry, to nudge people without
+  // spoiling the story. Leave an entry as "" for no hint on that stamp.
+  var HINTS = [
+    "", "", "", "", "", "", "", "", "", "", "", "", ""
+  ];
+  var HINTS_JA = Array(TOTAL_STAMPS).fill("");
+
+  // Rough location legend for the stamp map page (reached at ?map=1).
+  // Leave entries as "" until you're ready to fill them in — the map page
+  // already works with empty entries, it just shows "location coming soon".
+  var STAMP_LOCATIONS = Array(TOTAL_STAMPS).fill("");
+  var STAMP_LOCATIONS_JA = Array(TOTAL_STAMPS).fill("");
+
+  // Once you have a map image, put the file in this folder and set its name here,
+  // e.g. "map.png". Leave as "" to show a placeholder instead.
+  var MAP_IMAGE_URL = "";
 
   // Replace these sample entries with the real teachers' introductions and stories.
   var TEACHER_STORIES = [
@@ -50,6 +67,7 @@
   var STORAGE_KEY = "inkTrailStamps_v1";
   var THEME_KEY = "inkTrailTheme_v1";
   var LANGUAGE_KEY = "inkTrailLanguage_v1";
+  var HOW_IT_WORKS_KEY = "inkTrailSeenHowItWorks_v1";
   var app = document.getElementById("app");
   var activeLanguage;
 
@@ -87,16 +105,22 @@
   function storyText(index) {
     return activeLanguage === "ja" && STORY_JA[index] ? STORY_JA[index] : STORY[index];
   }
+  function hintText(index) {
+    return activeLanguage === "ja" && HINTS_JA[index] ? HINTS_JA[index] : HINTS[index];
+  }
+  function locationText(index) {
+    return activeLanguage === "ja" && STAMP_LOCATIONS_JA[index] ? STAMP_LOCATIONS_JA[index] : STAMP_LOCATIONS[index];
+  }
   function personText(person, field) {
     var japaneseField = field + "Ja";
     return activeLanguage === "ja" && person[japaneseField] ? person[japaneseField] : person[field];
   }
   var UI = {
     en: {
-      rallyKicker: "A STORY TOLD IN STAMPS", title: "The Ink Trail", homeLead: "Scan each stamp as you find it. Every one you collect reveals another page of the story below.", about: "About the circle", collected: "stamps collected", journal: "Field journal", completeTitle: "The whole story is yours", completeLead: "All thirteen pages are found. What they were pointing to has a door of its own.", stepThrough: "Step through", keepLooking: "Keep looking", keepLookingLead: "Find the remaining QR stamps to complete the story and unlock what comes after it.", reset: "Reset progress", circleKicker: "THE WRITING CIRCLE", circleTitle: "A room for unfinished things", circleLead: "The Writing Circle is a small gathering for people who want to write, read, and make room for one another.", circleP1: "We bring one page to the table and leave with another. A paragraph can be polished, strange, funny, uncertain, or only half alive. It still belongs in the room.", circleP2: "The circle is built on attention rather than performance: listen closely, share generously, and let each person keep their own voice.", meetPeople: "MEET THE PEOPLE", chooseName: "Choose a name to open their story", teachers: "Teachers", members: "Members", backBook: "Back to stamp book", memberStory: "MEMBER STORY", teacherStory: "TEACHER STORY", printPdf: "Print or save as PDF", backPeople: "Back to people", collectedTitle: "collected!", alreadyTitle: "already in your book", alreadyNote: "You'd already found this one. No harm in visiting twice.", soFar: "stamps so far.", openBook: "Open my stamp book", adminKicker: "ADMIN HUB", adminTitle: "Manage the Ink Trail", testTitle: "Test or reset progress", adminNote: "These controls affect stamps saved in this browser only.", resetAll: "Reset all collected stamps", qrTitle: "Print your stamp QR codes", qrLead: "Each QR code below points to this page with a different stamp number. Print this page, cut the codes apart, and place one at each stamp location. Scanning a code collects that stamp for whoever scans it.", baseUrl: "Base URL:", print: "Print", adminHidden: "This admin view is only reachable with the encoded admin key in the address — it is not linked from the stamp book itself.", stamp: "STAMP", toReveal: "TO REVEAL", addStamp: "Add stamp", addedStamp: "Added stamp", resetConfirm: "Reset all collected stamps on this device?"
+      rallyKicker: "A STORY TOLD IN STAMPS", title: "The Ink Trail", homeLead: "Scan each stamp as you find it. Every one you collect reveals another page of the story below.", about: "About the circle", collected: "stamps collected", journal: "Field journal", completeTitle: "The whole story is yours", completeLead: "All thirteen pages are found. What they were pointing to has a door of its own.", stepThrough: "Step through", keepLooking: "Keep looking", keepLookingLead: "Find the remaining QR stamps to complete the story and unlock what comes after it.", reset: "Reset progress", circleKicker: "THE WRITING CIRCLE", circleTitle: "A room for unfinished things", circleLead: "The Writing Circle is a small gathering for people who want to write, read, and make room for one another.", circleP1: "We bring one page to the table and leave with another. A paragraph can be polished, strange, funny, uncertain, or only half alive. It still belongs in the room.", circleP2: "The circle is built on attention rather than performance: listen closely, share generously, and let each person keep their own voice.", meetPeople: "MEET THE PEOPLE", chooseName: "Choose a name to open their story", teachers: "Teachers", members: "Members", backBook: "Back to stamp book", memberStory: "MEMBER STORY", teacherStory: "TEACHER STORY", printPdf: "Print or save as PDF", backPeople: "Back to people", collectedTitle: "collected!", alreadyTitle: "already in your book", alreadyNote: "You'd already found this one. No harm in visiting twice.", soFar: "stamps so far.", openBook: "Open my stamp book", adminKicker: "ADMIN HUB", adminTitle: "Manage the Ink Trail", testTitle: "Test or reset progress", adminNote: "These controls affect stamps saved in this browser only.", resetAll: "Reset all collected stamps", qrTitle: "Print your stamp QR codes", qrLead: "Each QR code below points to this page with a different stamp number. Print this page, cut the codes apart, and place one at each stamp location. Scanning a code collects that stamp for whoever scans it.", baseUrl: "Base URL:", print: "Print", adminHidden: "This admin view is only reachable with the encoded admin key in the address — it is not linked from the stamp book itself.", stamp: "STAMP", toReveal: "TO REVEAL", addStamp: "Add stamp", addedStamp: "Added stamp", resetConfirm: "Reset all collected stamps on this device?", howKicker: "HOW IT WORKS", howStep1: "Find a QR code hidden around the space — check the map for rough locations.", howStep2: "Scan it to collect that stamp and reveal one page of the story.", howStep3: "Collect all thirteen stamps to unlock the door to the Writing Circle.", howDismiss: "Got it — let's go", mapNav: "Stamp map", mapKicker: "FIND THE STAMPS", mapTitle: "Stamp map", mapLead: "Rough locations for all thirteen stamps. A full map is coming soon — for now, here's the list.", mapTbd: "Location coming soon", mapPlaceholder: "Map image coming soon", mapAlt: "Map showing stamp locations"
     },
     ja: {
-      rallyKicker: "スタンプでつづる物語", title: "インク・トレイル", homeLead: "スタンプを見つけたらスキャンしてください。集めるたびに、下の物語のページが開きます。", about: "サークルについて", collected: "個のスタンプを集めました", journal: "フィールド・ジャーナル", completeTitle: "物語をすべて集めました", completeLead: "13ページすべてが見つかりました。物語が指していた先への扉が開きます。", stepThrough: "中へ進む", keepLooking: "まだ探し続けて", keepLookingLead: "残りのQRスタンプを見つけて、物語の続きを開きましょう。", reset: "進行状況をリセット", circleKicker: "ライティング・サークル", circleTitle: "未完成なもののための部屋", circleLead: "ライティング・サークルは、書き、読み、お互いのための場所をつくる小さな集まりです。", circleP1: "一枚のページを持ち寄り、別のページを持ち帰ります。磨かれた文章も、奇妙な文章も、まだ途中の文章も、この部屋に居場所があります。", circleP2: "このサークルで大切なのは、評価よりも向き合うこと。よく聴き、惜しみなく分かち合い、それぞれの声を大切にします。", meetPeople: "参加者", chooseName: "名前を選んで物語を読む", teachers: "先生", members: "メンバー", backBook: "スタンプ帳に戻る", memberStory: "メンバーの物語", teacherStory: "先生の物語", printPdf: "印刷またはPDFとして保存", backPeople: "参加者に戻る", collectedTitle: "を集めました！", alreadyTitle: "はすでに集めています", alreadyNote: "このスタンプはすでに見つけています。もう一度訪れても大丈夫です。", soFar: "個のスタンプを集めています。", openBook: "スタンプ帳を開く", adminKicker: "管理ハブ", adminTitle: "インク・トレイルを管理", testTitle: "進行状況をテストまたはリセット", adminNote: "これらの操作は、このブラウザーに保存された進行状況だけに作用します。", resetAll: "集めたスタンプをすべてリセット", qrTitle: "スタンプQRコードを印刷", qrLead: "下のQRコードは、それぞれ違うスタンプ番号のページにつながります。印刷して切り分け、各場所に置いてください。スキャンすると、そのスタンプが集まります。", baseUrl: "ベースURL:", print: "印刷", adminHidden: "この管理画面は、エンコードされた管理キーを使ったURLからのみ開けます。スタンプ帳からはリンクされていません。", stamp: "スタンプ", toReveal: "見つけるには", addStamp: "スタンプを追加", addedStamp: "追加済み", resetConfirm: "この端末の集めたスタンプをすべてリセットしますか？"
+      rallyKicker: "スタンプでつづる物語", title: "インク・トレイル", homeLead: "スタンプを見つけたらスキャンしてください。集めるたびに、下の物語のページが開きます。", about: "サークルについて", collected: "個のスタンプを集めました", journal: "フィールド・ジャーナル", completeTitle: "物語をすべて集めました", completeLead: "13ページすべてが見つかりました。物語が指していた先への扉が開きます。", stepThrough: "中へ進む", keepLooking: "まだ探し続けて", keepLookingLead: "残りのQRスタンプを見つけて、物語の続きを開きましょう。", reset: "進行状況をリセット", circleKicker: "ライティング・サークル", circleTitle: "未完成なもののための部屋", circleLead: "ライティング・サークルは、書き、読み、お互いのための場所をつくる小さな集まりです。", circleP1: "一枚のページを持ち寄り、別のページを持ち帰ります。磨かれた文章も、奇妙な文章も、まだ途中の文章も、この部屋に居場所があります。", circleP2: "このサークルで大切なのは、評価よりも向き合うこと。よく聴き、惜しみなく分かち合い、それぞれの声を大切にします。", meetPeople: "参加者", chooseName: "名前を選んで物語を読む", teachers: "先生", members: "メンバー", backBook: "スタンプ帳に戻る", memberStory: "メンバーの物語", teacherStory: "先生の物語", printPdf: "印刷またはPDFとして保存", backPeople: "参加者に戻る", collectedTitle: "を集めました！", alreadyTitle: "はすでに集めています", alreadyNote: "このスタンプはすでに見つけています。もう一度訪れても大丈夫です。", soFar: "個のスタンプを集めています。", openBook: "スタンプ帳を開く", adminKicker: "管理ハブ", adminTitle: "インク・トレイルを管理", testTitle: "進行状況をテストまたはリセット", adminNote: "これらの操作は、このブラウザーに保存された進行状況だけに作用します。", resetAll: "集めたスタンプをすべてリセット", qrTitle: "スタンプQRコードを印刷", qrLead: "下のQRコードは、それぞれ違うスタンプ番号のページにつながります。印刷して切り分け、各場所に置いてください。スキャンすると、そのスタンプが集まります。", baseUrl: "ベースURL:", print: "印刷", adminHidden: "この管理画面は、エンコードされた管理キーを使ったURLからのみ開けます。スタンプ帳からはリンクされていません。", stamp: "スタンプ", toReveal: "見つけるには", addStamp: "スタンプを追加", addedStamp: "追加済み", resetConfirm: "この端末の集めたスタンプをすべてリセットしますか？", howKicker: "遊び方", howStep1: "会場に隠されたQRコードを見つけましょう。おおよその場所は地図で確認できます。", howStep2: "スキャンしてスタンプを集めると、物語の1ページが開きます。", howStep3: "13個すべてのスタンプを集めると、ライティング・サークルへの扉が開きます。", howDismiss: "わかった、始めよう", mapNav: "スタンプマップ", mapKicker: "スタンプを探そう", mapTitle: "スタンプマップ", mapLead: "13個すべてのスタンプのおおよその場所です。詳しい地図は近日公開予定。今のところは一覧をご覧ください。", mapTbd: "場所は近日公開", mapPlaceholder: "地図画像は近日公開予定", mapAlt: "スタンプの場所を示す地図"
     }
   };
   function ui(key) {
@@ -256,6 +280,8 @@
     window.location.replace("admin.html");
   } else if (params.get("intro") === "1") {
     renderIntro();
+  } else if (params.get("map") === "1") {
+    renderMap();
   } else if (params.get("circle") === "1") {
     renderCircle();
   } else if (stampParam && stampParam >= 1 && stampParam <= TOTAL_STAMPS) {
@@ -272,6 +298,19 @@
     var count = stamps.filter(Boolean).length;
     var complete = count >= TOTAL_STAMPS;
 
+    var seenHowItWorks = localStorage.getItem(HOW_IT_WORKS_KEY) === "1";
+    var howItWorksHtml = (count === 0 && !seenHowItWorks)
+      ? '<div class="how-it-works">' +
+          '<p class="kicker">' + ui("howKicker") + '</p>' +
+          '<ol class="how-steps">' +
+            '<li><span class="how-num">1</span><p>' + ui("howStep1") + '</p></li>' +
+            '<li><span class="how-num">2</span><p>' + ui("howStep2") + '</p></li>' +
+            '<li><span class="how-num">3</span><p>' + ui("howStep3") + '</p></li>' +
+          '</ol>' +
+          '<button class="btn secondary" id="dismissHow" type="button">' + ui("howDismiss") + '</button>' +
+        '</div>'
+      : '';
+
     var slotsHtml = "";
     var tilts = [-6, 4, -3, 7, -8, 2, -5, 6, -2, 5, -7];
     for (var i = 1; i <= TOTAL_STAMPS; i++) {
@@ -283,10 +322,12 @@
     var entriesHtml = "";
     for (var j = 1; j <= TOTAL_STAMPS; j++) {
       var have = !!stamps[j - 1];
+      var hint = hintText(j - 1);
       entriesHtml += '<div class="entry' + (have ? "" : " locked") + '">' +
         '<div class="num">' + String(j).padStart(2, "0") + '</div>' +
         '<p><span class="story-text">' + storyHtml(storyText(j - 1)) + '</span>' +
-          (have ? "" : '<span class="locked-hint">' + ui("stamp") + ' ' + j + '<br>' + ui("toReveal") + '</span>') +
+          (have ? "" : '<span class="locked-hint">' + ui("stamp") + ' ' + j + '<br>' + ui("toReveal") +
+            (hint ? '<br><span class="locked-hint-detail">' + escapeHtml(hint) + '</span>' : '') + '</span>') +
         '</p>' +
         '</div>';
     }
@@ -310,8 +351,9 @@
           '<p class="kicker">' + ui("rallyKicker") + '</p>' +
           '<h1>' + ui("title") + '</h1>' +
           '<p>' + ui("homeLead") + '</p>' +
-          '<nav class="page-nav"><a class="btn secondary" href="' + escapeHtml(baseUrl()) + '?intro=1">' + ui("about") + '</a></nav>' +
+          '<nav class="page-nav"><a class="btn secondary" href="' + escapeHtml(baseUrl()) + '?intro=1">' + ui("about") + '</a><a class="btn secondary" href="' + escapeHtml(baseUrl()) + '?map=1">' + ui("mapNav") + '</a></nav>' +
         '</div>' +
+        howItWorksHtml +
         '<div class="stamps-row">' + slotsHtml + '</div>' +
         '<p class="progress-caption"><strong>' + count + ' / ' + TOTAL_STAMPS + '</strong> ' + ui("collected") + '</p>' +
         '<div class="journal">' +
@@ -333,6 +375,13 @@
         }
       });
     }
+    var dismissHow = document.getElementById("dismissHow");
+    if (dismissHow) {
+      dismissHow.addEventListener("click", function () {
+        localStorage.setItem(HOW_IT_WORKS_KEY, "1");
+        renderHome();
+      });
+    }
   }
 
   // ---------------- INTRODUCTION ----------------
@@ -347,6 +396,29 @@
           '<p>' + ui("circleP2") + '</p>' +
           '<p>' + ui("homeLead") + '</p>' +
         '</div>' +
+        '<div class="page-actions"><a class="btn" href="' + escapeHtml(baseUrl()) + '">' + ui("openBook") + '</a></div>' +
+      '</div>';
+  }
+
+  // ---------------- STAMP MAP / LEGEND ----------------
+  function renderMap() {
+    var legendRows = "";
+    for (var i = 1; i <= TOTAL_STAMPS; i++) {
+      var loc = locationText(i - 1);
+      legendRows += '<div class="map-row"><span class="map-num">' + String(i).padStart(2, "0") + '</span><span class="map-loc">' +
+        (loc ? escapeHtml(loc) : '<em>' + ui("mapTbd") + '</em>') + '</span></div>';
+    }
+    var imageHtml = MAP_IMAGE_URL
+      ? '<img class="map-image" src="' + escapeHtml(MAP_IMAGE_URL) + '" alt="' + escapeHtml(ui("mapAlt")) + '">'
+      : "";
+
+    app.innerHTML =
+      '<div class="content-page map-page">' +
+        '<p class="kicker">' + ui("mapKicker") + '</p>' +
+        '<h1>' + ui("mapTitle") + '</h1>' +
+        '<p class="lead">' + ui("mapLead") + '</p>' +
+        imageHtml +
+        '<div class="map-legend">' + legendRows + '</div>' +
         '<div class="page-actions"><a class="btn" href="' + escapeHtml(baseUrl()) + '">' + ui("openBook") + '</a></div>' +
       '</div>';
   }
