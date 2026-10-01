@@ -3,6 +3,21 @@
   // CUSTOMIZE HERE
   // ---------------------------------------------------------------
   var TOTAL_STAMPS = 13;
+  var STAMP_CODES = [
+    `=*];ANm8W"<49BH0:D5wZX[r6`,
+    "Ar(fGBn4*0GsmD%QKZ81_Fm2.",
+    "29Pml6WTy6@O[T(Qo7e7<a,W<",
+    "sTk#NmeD7@.CDc6A'u06pnk-i",
+    "dUzTRnFw8A96mHyyaKdcSygrS",
+    "Z@F~P4JHDJTV]).0@lru-nG-v",
+    "RKs_%lZF;$NY~72nvt-gsmlUF",
+    "^Gu0C(pB_ImY#~o!x0Wce{hBM",
+    "be,ruvp%UcrYxTKF7RHauFPzr",
+    "yc3!jFzg,qIJE$~%urCHt@[p4",
+    "7=$gS'--pDaEu63cYjakHv0ev",
+    "(Y+%unD5hCnZ7E3bpzRF7rvy4",
+    "gY2%0OMdUziiveA5zlRu0drpy"
+  ];
 
   // One story fragment per stamp, revealed in order as stamps are collected.
   // Rewrite these with your own story — keep the array length equal to TOTAL_STAMPS.
@@ -206,6 +221,12 @@
     var controls = document.getElementById("stampControls");
     baseInput.value = adminData.qrBaseUrl || (window.location.origin + "/");
 
+    function defaultStampUrl(base, stampNumber) {
+      var url = new URL(base, window.location.href);
+      url.searchParams.set("s", STAMP_CODES[stampNumber - 1]);
+      return url.toString();
+    }
+
     function loadAdminStamps() {
       try {
         var raw = localStorage.getItem(storageKey);
@@ -238,9 +259,8 @@
     function buildCodes() {
       grid.innerHTML = "";
       var base = baseInput.value || (window.location.origin + "/");
-      var separator = base.indexOf("?") === -1 ? "?" : "&";
       for (var stampNumber = 1; stampNumber <= totalStamps; stampNumber++) {
-        var url = base + separator + "s=" + stampNumber;
+        var url = defaultStampUrl(base, stampNumber);
         var card = document.createElement("div");
         card.className = "qr-card";
         var target = document.createElement("div");
@@ -273,7 +293,8 @@
   }
 
   var params = new URLSearchParams(window.location.search);
-  var stampParam = parseInt(params.get("s"), 10);
+  var stampValue = params.get("s") || "";
+  var stampParam = STAMP_CODES.indexOf(stampValue) + 1;
   var isLegacyAdminUrl = params.has("admin");
 
   if (isLegacyAdminUrl) {
