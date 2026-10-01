@@ -2,8 +2,8 @@
   // ---------------------------------------------------------------
   // CUSTOMIZE HERE
   // ---------------------------------------------------------------
-  var TOTAL_STAMPS = 13;
-  var STAMP_CODES = [
+  const TOTAL_STAMPS = 13;
+  const STAMP_CODES = [
     `=*];ANm8W"<49BH0:D5wZX[r6`,
     "Ar(fGBn4*0GsmD%QKZ81_Fm2.",
     "29Pml6WTy6@O[T(Qo7e7<a,W<",
@@ -21,7 +21,7 @@
 
   // One story fragment per stamp, revealed in order as stamps are collected.
   // Rewrite these with your own story — keep the array length equal to TOTAL_STAMPS.
-  var STORY = [
+  const STORY = [
     "The well wasn't there yesterday, but it's here now. No big deal, right? It's just a new well. Normally, I'd agree with you. But who digs a well in the middle of the woods? And why does it look like some well made in the sixteenth century, rough rocks the size of bricks making a circle, moss growing on the stones as if they've grown there since dinosaurs walked the Earth? Do I even really want these questions answered? I've walked these woods by my house for years and have never seen a well here. Or anywhere in the woods. Sometimes I see old foundations of houses grown over with weeds and trees. There is even a collapsed cellar from about two hundred years ago, a perfect place to duck into during a game of hide and seek. On my thirteenth birthday last year, I even discovered an old cobblestone road hidden under twenty centimeters of dirt. But this clearing in the woods never had a well, and a well doesn't just appear like this suddenly.\n\nAt first I wanted to look in the well. I got close to the edge but chickened out. I'm not sure why. A cold feeling came over me, and I couldn't push myself to get near the edge and peek down. Maybe it was just the strangeness of it all.\n\nMy next idea was to ask my dad.",
     "As I was healing back, I saw some more things that probably weren't there at first, red mushrooms and some red flowers that I couldn't tell the name of, no big deal probably. Making my way back to the house, the red flowers were still around the forest, maybe with some white ones. I made it back home but I surprisingly didn't see any squirrels like I usually do, that was strange. I opened the door to my house to ask my dad about it.",
     "I went upstairs beneath the silence to my room. Cozy as always, though today it wasn't. Strange, wasn't it? Maybe my senses faded out and I'm a rock now. I sat on my bed and glanced at different parts of my room. A foot away from me, the stack of paper I kept on top of my desk fell onto the floor, yet no window was open whatsoever for wind to come in.\n\nI picked it up, and placed it next to me, when I caught a glimpse of an old letter sitting right in the middle of the desk in the corner of my eye. It was rigid, but felt like a letter given from the medieval ages. In it said;\n\nDesolate it may be, it thrived with life.\n\nAt least that was once in the timeline.\n\nAn old book fell downstairs, and now vines cover it.\n\nMaybe even moss.\n\nIt had a tale.\n\nDeciphering it required knowledge.\n\nBut even then, after stacks of paperwork and bookshelves,\n\nIt wasn't close to enough.\n\nA sigil may open that door,\n\nBut will never unlock the Stratum.\n\nThe Arbiter once must hold that secret within, for years,\n\nBut a Paragon will hold it forever.\n\nI read it over and over, until the words didn't make sense to me anymore, sort of like jamais vu. In the letter, I also found a key. The moment I held it, zephyr around me gushed and the door on the closet opened wistfully.\n\nBehind it, a dim light of wisp-glow shone right at me, so bright but so dim. Strange, I thought. I have to ask my father about it.",
@@ -38,33 +38,33 @@
   ];
 
   // Add Japanese versions here later, in the same order as STORY.
-  var STORY_JA = Array(TOTAL_STAMPS).fill("ここに日本語のストーリーを追加してください。");
+  const STORY_JA = Array(TOTAL_STAMPS).fill("ここに日本語のストーリーを追加してください。");
 
   // Optional hint shown next to each LOCKED journal entry, to nudge people without
   // spoiling the story. Leave an entry as "" for no hint on that stamp.
-  var HINTS = [
+  const HINTS = [
     "", "", "", "", "", "", "", "", "", "", "", "", ""
   ];
-  var HINTS_JA = Array(TOTAL_STAMPS).fill("");
+  const HINTS_JA = Array(TOTAL_STAMPS).fill("");
 
   // Rough location legend for the stamp map page (reached at ?map=1).
   // Leave entries as "" until you're ready to fill them in — the map page
   // already works with empty entries, it just shows "location coming soon".
-  var STAMP_LOCATIONS = Array(TOTAL_STAMPS).fill("");
-  var STAMP_LOCATIONS_JA = Array(TOTAL_STAMPS).fill("");
+  const STAMP_LOCATIONS = Array(TOTAL_STAMPS).fill("");
+  const STAMP_LOCATIONS_JA = Array(TOTAL_STAMPS).fill("");
 
   // Once you have a map image, put the file in this folder and set its name here,
   // e.g. "map.png". Leave as "" to show a placeholder instead.
-  var MAP_IMAGE_URL = "";
+  const MAP_IMAGE_URL = "";
 
   // Replace these sample entries with the real teachers' introductions and stories.
-  var TEACHER_STORIES = [
+  const TEACHER_STORIES = [
     { name: "Teacher One", nameJa: "先生＃１", intro: "A guide who helps each voice find its shape.", introJa: "一人ひとりの声が形になるように導く先生。", story: "Add this teacher's introduction and story here when you are ready." },
     { name: "Teacher Two", nameJa: "先生＃２", intro: "A patient reader who makes room for new ideas.", introJa: "新しいアイデアを受け止める、辛抱強い読者。", story: "Add this teacher's introduction and story here when you are ready." }
   ];
 
   // Replace these sample entries with the real members' introductions and stories.
-  var MEMBER_STORIES = [
+  const MEMBER_STORIES = [
     { name: "Member One", nameJa: "メンバー＃１", intro: "A quiet observer who writes about beginnings.", introJa: "始まりについて書く、静かな観察者。", story: "I joined the circle because I wanted a place where unfinished ideas could be shared without apology." },
     { name: "Member Two", nameJa: "メンバー＃２", intro: "A collector of borrowed sentences and unexpected turns.", introJa: "借りた言葉と予想外の展開を集める人。", story: "My favorite part is leaving with a page that began in someone else's imagination and finding my own way into it." },
     { name: "Member Three", nameJa: "メンバー＃３", intro: "A steady believer in generous, shared writing.", introJa: "思いやりのある、分かち合う文章を信じる人。", story: "The circle reminds me that writing is both a solitary practice and a generous way of being with other people." },
@@ -79,33 +79,33 @@
   ];
 
   // ---------------------------------------------------------------
-  var STORAGE_KEY = "inkTrailStamps_v1";
-  var THEME_KEY = "inkTrailTheme_v1";
-  var LANGUAGE_KEY = "inkTrailLanguage_v1";
-  var HOW_IT_WORKS_KEY = "inkTrailSeenHowItWorks_v1";
-  var app = document.getElementById("app");
-  var activeLanguage;
+  const STORAGE_KEY = "inkTrailStamps_v1";
+  const THEME_KEY = "inkTrailTheme_v1";
+  const LANGUAGE_KEY = "inkTrailLanguage_v1";
+  const HOW_IT_WORKS_KEY = "inkTrailSeenHowItWorks_v1";
+  const app = document.getElementById("app");
+  let activeLanguage;
 
   function applyTheme(theme) {
     document.documentElement.setAttribute("data-theme", theme);
   }
   function initialTheme() {
-    var savedTheme = localStorage.getItem(THEME_KEY);
+    const savedTheme = localStorage.getItem(THEME_KEY);
     if (savedTheme === "light" || savedTheme === "dark") return savedTheme;
     return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
   }
   function addThemeToggle() {
-    var toggle = document.createElement("button");
+    const toggle = document.createElement("button");
     toggle.className = "theme-toggle no-print";
     toggle.type = "button";
     function updateLabel() {
-      var dark = document.documentElement.getAttribute("data-theme") === "dark";
+      const dark = document.documentElement.getAttribute("data-theme") === "dark";
       toggle.textContent = activeLanguage === "ja" ? (dark ? "ライト" : "ダーク") : (dark ? "Light mode" : "Dark mode");
       toggle.setAttribute("aria-label", activeLanguage === "ja" ? (dark ? "ライトモードに切り替える" : "ダークモードに切り替える") : (dark ? "Switch to light mode" : "Switch to dark mode"));
     }
     updateLabel();
     toggle.addEventListener("click", function () {
-      var nextTheme = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      const nextTheme = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
       applyTheme(nextTheme);
       localStorage.setItem(THEME_KEY, nextTheme);
       updateLabel();
@@ -114,7 +114,7 @@
   }
 
   function initialLanguage() {
-    var savedLanguage = localStorage.getItem(LANGUAGE_KEY);
+    const savedLanguage = localStorage.getItem(LANGUAGE_KEY);
     return savedLanguage === "ja" ? "ja" : "en";
   }
   function storyText(index) {
@@ -127,10 +127,10 @@
     return activeLanguage === "ja" && STAMP_LOCATIONS_JA[index] ? STAMP_LOCATIONS_JA[index] : STAMP_LOCATIONS[index];
   }
   function personText(person, field) {
-    var japaneseField = field + "Ja";
+    const japaneseField = field + "Ja";
     return activeLanguage === "ja" && person[japaneseField] ? person[japaneseField] : person[field];
   }
-  var UI = {
+  const UI = {
     en: {
       rallyKicker: "A STORY TOLD IN STAMPS", title: "The Ink Trail", homeLead: "Scan each stamp as you find it. Every one you collect reveals another page of the story below.", about: "About the circle", collected: "stamps collected", journal: "Field journal", completeTitle: "The whole story is yours", completeLead: "All thirteen pages are found. What they were pointing to has a door of its own.", stepThrough: "Step through", keepLooking: "Keep looking", keepLookingLead: "Find the remaining QR stamps to complete the story and unlock what comes after it.", reset: "Reset progress", circleKicker: "THE WRITING CIRCLE", circleTitle: "A room for unfinished things", circleLead: "The Writing Circle is a small gathering for people who want to write, read, and make room for one another.", circleP1: "We bring one page to the table and leave with another. A paragraph can be polished, strange, funny, uncertain, or only half alive. It still belongs in the room.", circleP2: "The circle is built on attention rather than performance: listen closely, share generously, and let each person keep their own voice.", meetPeople: "MEET THE PEOPLE", chooseName: "Choose a name to open their story", teachers: "Teachers", members: "Members", backBook: "Back to stamp book", memberStory: "MEMBER STORY", teacherStory: "TEACHER STORY", printPdf: "Print or save as PDF", backPeople: "Back to people", collectedTitle: "collected!", alreadyTitle: "already in your book", alreadyNote: "You'd already found this one. No harm in visiting twice.", soFar: "stamps so far.", openBook: "Open my stamp book", adminKicker: "ADMIN HUB", adminTitle: "Manage the Ink Trail", testTitle: "Test or reset progress", adminNote: "These controls affect stamps saved in this browser only.", resetAll: "Reset all collected stamps", qrTitle: "Print your stamp QR codes", qrLead: "Each QR code below points to this page with a different stamp number. Print this page, cut the codes apart, and place one at each stamp location. Scanning a code collects that stamp for whoever scans it.", baseUrl: "Base URL:", print: "Print", adminHidden: "This admin view is only reachable with the encoded admin key in the address — it is not linked from the stamp book itself.", stamp: "STAMP", toReveal: "TO REVEAL", addStamp: "Add stamp", addedStamp: "Added stamp", resetConfirm: "Reset all collected stamps on this device?", howKicker: "HOW IT WORKS", howStep1: "Find a QR code hidden around the space — check the map for rough locations.", howStep2: "Scan it to collect that stamp and reveal one page of the story.", howStep3: "Collect all thirteen stamps to unlock the door to the Writing Circle.", howDismiss: "Got it — let's go", mapNav: "Stamp map", mapKicker: "FIND THE STAMPS", mapTitle: "Stamp map", mapLead: "Rough locations for all thirteen stamps. A full map is coming soon — for now, here's the list.", mapTbd: "Location coming soon", mapPlaceholder: "Map image coming soon", mapAlt: "Map showing stamp locations"
     },
@@ -142,7 +142,7 @@
     return UI[activeLanguage][key] || UI.en[key] || key;
   }
   function addLanguageToggle() {
-    var toggle = document.createElement("button");
+    const toggle = document.createElement("button");
     toggle.className = "language-toggle no-print";
     toggle.type = "button";
     toggle.textContent = activeLanguage === "ja" ? "English" : "日本語";
@@ -160,8 +160,8 @@
 
   function loadStamps() {
     try {
-      var raw = localStorage.getItem(STORAGE_KEY);
-      var arr = raw ? JSON.parse(raw) : [];
+      const raw = localStorage.getItem(STORAGE_KEY);
+      let arr = raw ? JSON.parse(raw) : [];
       if (!Array.isArray(arr)) arr = [];
       return arr;
     } catch (e) { return []; }
@@ -182,23 +182,23 @@
   }
 
   function initSecureAdmin() {
-    var form = document.getElementById("adminLoginForm");
-    var passwordInput = document.getElementById("adminPassword");
-    var loginPanel = document.getElementById("loginPanel");
-    var dashboard = document.getElementById("adminDashboard");
-    var errorMessage = document.getElementById("loginError");
+    const form = document.getElementById("adminLoginForm");
+    const passwordInput = document.getElementById("adminPassword");
+    const loginPanel = document.getElementById("loginPanel");
+    const dashboard = document.getElementById("adminDashboard");
+    const errorMessage = document.getElementById("loginError");
 
     form.addEventListener("submit", async function (event) {
       event.preventDefault();
       errorMessage.hidden = true;
 
       try {
-        var response = await fetch("/api/admin-login", {
+        const response = await fetch("/api/admin-login", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ password: passwordInput.value })
         });
-        var result = await response.json();
+        const result = await response.json();
         if (!response.ok) throw new Error(result.error || "Access Denied");
 
         loginPanel.style.display = "none";
@@ -214,23 +214,23 @@
   }
 
   function renderSecureAdminDashboard(adminData) {
-    var totalStamps = Number(adminData.totalStamps) || TOTAL_STAMPS;
-    var storageKey = adminData.storageKey || "inkTrailStamps_v1";
-    var baseInput = document.getElementById("baseInput");
-    var grid = document.getElementById("qrGrid");
-    var controls = document.getElementById("stampControls");
+    const totalStamps = Number(adminData.totalStamps) || TOTAL_STAMPS;
+    const storageKey = adminData.storageKey || "inkTrailStamps_v1";
+    const baseInput = document.getElementById("baseInput");
+    const grid = document.getElementById("qrGrid");
+    const controls = document.getElementById("stampControls");
     baseInput.value = adminData.qrBaseUrl || (window.location.origin + "/");
 
     function defaultStampUrl(base, stampNumber) {
-      var url = new URL(base, window.location.href);
+      const url = new URL(base, window.location.href);
       url.searchParams.set("s", STAMP_CODES[stampNumber - 1]);
       return url.toString();
     }
 
     function loadAdminStamps() {
       try {
-        var raw = localStorage.getItem(storageKey);
-        var stamps = raw ? JSON.parse(raw) : [];
+        const raw = localStorage.getItem(storageKey);
+        let stamps = raw ? JSON.parse(raw) : [];
         return Array.isArray(stamps) ? stamps : [];
       } catch (error) { return []; }
     }
@@ -238,16 +238,16 @@
       try { localStorage.setItem(storageKey, JSON.stringify(stamps)); } catch (error) {}
     }
     function buildStampControls() {
-      var stamps = loadAdminStamps();
+      const stamps = loadAdminStamps();
       controls.innerHTML = "";
-      for (var stampNumber = 1; stampNumber <= totalStamps; stampNumber++) {
-        var button = document.createElement("button");
+      for (let stampNumber = 1; stampNumber <= totalStamps; stampNumber++) {
+        const button = document.createElement("button");
         button.className = "stamp-toggle" + (stamps[stampNumber - 1] ? " is-added" : "");
         button.type = "button";
         button.textContent = (stamps[stampNumber - 1] ? "Added stamp " : "Add stamp ") + String(stampNumber).padStart(2, "0");
         button.addEventListener("click", function () {
-          var number = parseInt(this.textContent.match(/\d+$/)[0], 10);
-          var current = loadAdminStamps();
+          const number = parseInt(this.textContent.match(/\d+$/)[0], 10);
+          const current = loadAdminStamps();
           current[number - 1] = true;
           saveAdminStamps(current);
           this.textContent = "Added stamp " + String(number).padStart(2, "0");
@@ -258,14 +258,14 @@
     }
     function buildCodes() {
       grid.innerHTML = "";
-      var base = baseInput.value || (window.location.origin + "/");
-      for (var stampNumber = 1; stampNumber <= totalStamps; stampNumber++) {
-        var url = defaultStampUrl(base, stampNumber);
-        var card = document.createElement("div");
+      const base = baseInput.value || (window.location.origin + "/");
+      for (let stampNumber = 1; stampNumber <= totalStamps; stampNumber++) {
+        const url = defaultStampUrl(base, stampNumber);
+        const card = document.createElement("div");
         card.className = "qr-card";
-        var target = document.createElement("div");
+        const target = document.createElement("div");
         target.className = "qr-target";
-        var caption = document.createElement("div");
+        const caption = document.createElement("div");
         caption.className = "cap";
         caption.textContent = "STAMP " + String(stampNumber).padStart(2, "0");
         card.appendChild(target);
@@ -292,10 +292,10 @@
     return;
   }
 
-  var params = new URLSearchParams(window.location.search);
-  var stampValue = params.get("s") || "";
-  var stampParam = STAMP_CODES.indexOf(stampValue) + 1;
-  var isLegacyAdminUrl = params.has("admin");
+  const params = new URLSearchParams(window.location.search);
+  const stampValue = params.get("s") || "";
+  const stampParam = STAMP_CODES.indexOf(stampValue) + 1;
+  const isLegacyAdminUrl = params.has("admin");
 
   if (isLegacyAdminUrl) {
     window.location.replace("admin.html");
@@ -315,12 +315,12 @@
 
   // ---------------- HOME ----------------
   function renderHome() {
-    var stamps = loadStamps();
-    var count = stamps.filter(Boolean).length;
-    var complete = count >= TOTAL_STAMPS;
+    const stamps = loadStamps();
+    const count = stamps.filter(Boolean).length;
+    const complete = count >= TOTAL_STAMPS;
 
-    var seenHowItWorks = localStorage.getItem(HOW_IT_WORKS_KEY) === "1";
-    var howItWorksHtml = (count === 0 && !seenHowItWorks)
+    const seenHowItWorks = localStorage.getItem(HOW_IT_WORKS_KEY) === "1";
+    const howItWorksHtml = (count === 0 && !seenHowItWorks)
       ? '<div class="how-it-works">' +
           '<p class="kicker">' + ui("howKicker") + '</p>' +
           '<ol class="how-steps">' +
@@ -332,18 +332,18 @@
         '</div>'
       : '';
 
-    var slotsHtml = "";
-    var tilts = [-6, 4, -3, 7, -8, 2, -5, 6, -2, 5, -7];
-    for (var i = 1; i <= TOTAL_STAMPS; i++) {
-      var filled = !!stamps[i - 1];
+    let slotsHtml = "";
+    const tilts = [-6, 4, -3, 7, -8, 2, -5, 6, -2, 5, -7];
+    for (let i = 1; i <= TOTAL_STAMPS; i++) {
+      const filled = !!stamps[i - 1];
       slotsHtml += '<div class="slot' + (filled ? " filled" : "") + '" style="--tilt:' + tilts[(i - 1) % tilts.length] + 'deg">' +
         (filled ? "✦" : i) + '</div>';
     }
 
-    var entriesHtml = "";
-    for (var j = 1; j <= TOTAL_STAMPS; j++) {
-      var have = !!stamps[j - 1];
-      var hint = hintText(j - 1);
+    let entriesHtml = "";
+    for (let j = 1; j <= TOTAL_STAMPS; j++) {
+      const have = !!stamps[j - 1];
+      const hint = hintText(j - 1);
       entriesHtml += '<div class="entry' + (have ? "" : " locked") + '">' +
         '<div class="num">' + String(j).padStart(2, "0") + '</div>' +
         '<p><span class="story-text">' + storyHtml(storyText(j - 1)) + '</span>' +
@@ -353,7 +353,7 @@
         '</div>';
     }
 
-    var unlockHtml = complete
+    const unlockHtml = complete
       ? '<div class="unlock-box">' +
           '<div class="stamp-mark">SEAL<br>COMPLETE</div>' +
           '<h3>' + ui("completeTitle") + '</h3>' +
@@ -382,21 +382,9 @@
           entriesHtml +
         '</div>' +
         unlockHtml +
-        '<footer>' +
-          '<button class="linklike" id="resetBtn">' + ui("reset") + '</button>' +
-        '</footer>' +
       '</div>';
 
-    var resetBtn = document.getElementById("resetBtn");
-    if (resetBtn) {
-      resetBtn.addEventListener("click", function () {
-        if (confirm("Clear all collected stamps on this device?")) {
-          saveStamps([]);
-          renderHome();
-        }
-      });
-    }
-    var dismissHow = document.getElementById("dismissHow");
+    const dismissHow = document.getElementById("dismissHow");
     if (dismissHow) {
       dismissHow.addEventListener("click", function () {
         localStorage.setItem(HOW_IT_WORKS_KEY, "1");
@@ -423,13 +411,13 @@
 
   // ---------------- STAMP MAP / LEGEND ----------------
   function renderMap() {
-    var legendRows = "";
-    for (var i = 1; i <= TOTAL_STAMPS; i++) {
-      var loc = locationText(i - 1);
+    let legendRows = "";
+    for (let i = 1; i <= TOTAL_STAMPS; i++) {
+      const loc = locationText(i - 1);
       legendRows += '<div class="map-row"><span class="map-num">' + String(i).padStart(2, "0") + '</span><span class="map-loc">' +
         (loc ? escapeHtml(loc) : '<em>' + ui("mapTbd") + '</em>') + '</span></div>';
     }
-    var imageHtml = MAP_IMAGE_URL
+    const imageHtml = MAP_IMAGE_URL
       ? '<img class="map-image" src="' + escapeHtml(MAP_IMAGE_URL) + '" alt="' + escapeHtml(ui("mapAlt")) + '">'
       : "";
 
@@ -446,17 +434,17 @@
 
   // ---------------- UNLOCKED WRITING CIRCLE ----------------
   function renderCircle() {
-    var stamps = loadStamps();
+    const stamps = loadStamps();
     if (stamps.filter(Boolean).length < TOTAL_STAMPS) {
       renderHome();
       return;
     }
 
-    var personParam = params.get("person");
-    var personMatch = personParam ? personParam.match(/^(teacher|member)-(\d+)$/) : null;
+    const personParam = params.get("person");
+    const personMatch = personParam ? personParam.match(/^(teacher|member)-(\d+)$/) : null;
     if (personMatch) {
-      var personIndex = parseInt(personMatch[2], 10) - 1;
-      var personList = personMatch[1] === "teacher" ? TEACHER_STORIES : MEMBER_STORIES;
+      const personIndex = parseInt(personMatch[2], 10) - 1;
+      const personList = personMatch[1] === "teacher" ? TEACHER_STORIES : MEMBER_STORIES;
       if (personIndex >= 0 && personIndex < personList.length) {
         renderPerson(personList[personIndex], personMatch[1] === "teacher" ? "TEACHER STORY" : "MEMBER STORY");
         return;
@@ -465,12 +453,12 @@
 
     function peopleLinks(people, prefix) {
       return people.map(function (person, index) {
-        var personId = prefix + "-" + (index + 1);
+        const personId = prefix + "-" + (index + 1);
         return '<article class="member-card"><a class="member-name" href="' + escapeHtml(baseUrl()) + '?circle=1&person=' + personId + '">' + escapeHtml(personText(person, "name")) + '</a><p>' + escapeHtml(personText(person, "intro")) + '</p></article>';
       }).join("");
     }
-    var teacherLinks = peopleLinks(TEACHER_STORIES, "teacher");
-    var memberLinks = peopleLinks(MEMBER_STORIES, "member");
+    const teacherLinks = peopleLinks(TEACHER_STORIES, "teacher");
+    const memberLinks = peopleLinks(MEMBER_STORIES, "member");
 
     app.innerHTML =
       '<div class="content-page circle-page">' +
@@ -501,12 +489,12 @@
 
   // ---------------- COLLECT (from a scanned QR) ----------------
   function renderCollect(n) {
-    var stamps = loadStamps();
-    var alreadyHad = !!stamps[n - 1];
+    const stamps = loadStamps();
+    const alreadyHad = !!stamps[n - 1];
     stamps[n - 1] = true;
     saveStamps(stamps);
 
-    var count = stamps.filter(Boolean).length;
+    const count = stamps.filter(Boolean).length;
 
     app.innerHTML =
       '<div class="collect-screen">' +
@@ -521,9 +509,9 @@
 
   // ---------------- ADMIN: generate printable QR codes ----------------
   function renderAdmin() {
-    var currentStamps = loadStamps();
-    var stampButtons = "";
-    for (var stampNumber = 1; stampNumber <= TOTAL_STAMPS; stampNumber++) {
+    const currentStamps = loadStamps();
+    let stampButtons = "";
+    for (let stampNumber = 1; stampNumber <= TOTAL_STAMPS; stampNumber++) {
       stampButtons += '<button class="stamp-toggle ' + (currentStamps[stampNumber - 1] ? "is-added" : "") + '" type="button" data-stamp="' + stampNumber + '">' + (currentStamps[stampNumber - 1] ? ui("addedStamp") : ui("addStamp")) + ' ' + String(stampNumber).padStart(2, "0") + '</button>';
     }
 
@@ -545,21 +533,21 @@
         '</p>' +
       '</div>';
 
-    var grid = document.getElementById("qrGrid");
-    var baseInput = document.getElementById("baseInput");
+    const grid = document.getElementById("qrGrid");
+    const baseInput = document.getElementById("baseInput");
 
     function buildCodes() {
       grid.innerHTML = "";
-      var base = baseInput.value || baseUrl();
-      var sep = base.indexOf("?") === -1 ? "?" : "&";
-      for (var i = 1; i <= TOTAL_STAMPS; i++) {
-        var url = base + sep + "s=" + i;
-        var card = document.createElement("div");
+      const base = baseInput.value || baseUrl();
+      const sep = base.indexOf("?") === -1 ? "?" : "&";
+      for (let i = 1; i <= TOTAL_STAMPS; i++) {
+        const url = base + sep + "s=" + i;
+        const card = document.createElement("div");
         card.className = "qr-card";
-        var target = document.createElement("div");
+        const target = document.createElement("div");
         target.className = "qr-target";
         card.appendChild(target);
-        var cap = document.createElement("div");
+        const cap = document.createElement("div");
         cap.className = "cap";
         cap.textContent = ui("stamp") + " " + String(i).padStart(2, "0");
         card.appendChild(cap);
@@ -577,8 +565,8 @@
     document.getElementById("printBtn").addEventListener("click", function () { window.print(); });
     document.querySelectorAll(".stamp-toggle").forEach(function (button) {
       button.addEventListener("click", function () {
-        var stampNumber = parseInt(button.getAttribute("data-stamp"), 10);
-        var stamps = loadStamps();
+        const stampNumber = parseInt(button.getAttribute("data-stamp"), 10);
+        const stamps = loadStamps();
         stamps[stampNumber - 1] = true;
         saveStamps(stamps);
         button.textContent = ui("addedStamp") + " " + String(stampNumber).padStart(2, "0");
