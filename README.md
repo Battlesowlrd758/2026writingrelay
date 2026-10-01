@@ -48,9 +48,11 @@ palette is defined once at the top as CSS variables (`--paper`, `--ink`,
 
 ## How the stamp mechanic works
 
-- Every visit to the page checks the URL for a `?s=` parameter.
-- A QR code that points to `yoursite.com/?s=3` will, the moment it's opened,
-  mark stamp 3 as collected **in that visitor's own browser** (using
+- Every visit to the page checks the URL for a `?s=` parameter. The value is
+  matched against the corresponding entry in `STAMP_CODES` near the top of
+  `script.js`.
+- A QR code with stamp 3's code in `?s=` will, the moment it's opened, mark
+  stamp 3 as collected **in that visitor's own browser** (using
   `localStorage` — no server, no login, no database).
 - The home page (`yoursite.com/` with no parameter) shows the visitor's
   collected stamps and the story fragments unlocked so far.
@@ -83,7 +85,11 @@ npx wrangler pages dev .
 Set `ADMIN_SECRET_PASSWORD` as a local secret for that development command or
 configure it in the Cloudflare Pages dashboard for production. After login,
 the dashboard shows all 13 QR codes with a **Print** button and local testing
-controls. The password is never stored in the repository or URL.
+controls. QR codes use the stamp codes listed in `STAMP_CODES` near the top of
+`script.js`; update those values and print a new sheet to change them. The QR
+generator URL-encodes the values, and the site maps each value back to its stamp.
+Older numeric `?s=1` links continue to work. The password is never stored in
+the repository or URL.
 
 The admin hub also has buttons to add each stamp to the current browser for
 testing, plus a reset button. These controls only change local progress; they
