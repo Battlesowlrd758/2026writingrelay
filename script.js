@@ -26,9 +26,11 @@
     "As I was healing back, I saw some more things that probably weren't there at first, red mushrooms and some red flowers that I couldn't tell the name of, no big deal probably. Making my way back to the house, the red flowers were still around the forest, maybe with some white ones. I made it back home but I surprisingly didn't see any squirrels like I usually do, that was strange. I opened the door to my house to ask my dad about it.",
     "I went upstairs beneath the silence to my room. Cozy as always, though today it wasn't. Strange, wasn't it? Maybe my senses faded out and I'm a rock now. I sat on my bed and glanced at different parts of my room. A foot away from me, the stack of paper I kept on top of my desk fell onto the floor, yet no window was open whatsoever for wind to come in.\n\nI picked it up, and placed it next to me, when I caught a glimpse of an old letter sitting right in the middle of the desk in the corner of my eye. It was rigid, but felt like a letter given from the medieval ages. In it said;\n\nDesolate it may be, it thrived with life.\n\nAt least that was once in the timeline.\n\nAn old book fell downstairs, and now vines cover it.\n\nMaybe even moss.\n\nIt had a tale.\n\nDeciphering it required knowledge.\n\nBut even then, after stacks of paperwork and bookshelves,\n\nIt wasn't close to enough.\n\nA sigil may open that door,\n\nBut will never unlock the Stratum.\n\nThe Arbiter once must hold that secret within, for years,\n\nBut a Paragon will hold it forever.\n\nI read it over and over, until the words didn't make sense to me anymore, sort of like jamais vu. In the letter, I also found a key. The moment I held it, zephyr around me gushed and the door on the closet opened wistfully.\n\nBehind it, a dim light of wisp-glow shone right at me, so bright but so dim. Strange, I thought. I have to ask my father about it.",
     "I stepped closer to the closet, but stopped just short before I could reach. The lights coming from inside flickered, almost like a candle trying to decide whether it wanted to stay lit or not.\n\nI had no idea what that wisp of glow was, or why a key I had never seen opened my closet by itself. I really wanted to shut the door and go under the bed like nothing ever happened,but the curiosity inside me got the better of me. WIth a mixed feeling of anxiety, nervous, and curiosity I reached my hand towards the opening. I felt something that I felt before. It was the same cold feeling from the well in the woods. Whatever was inside this closet, I had a feeling it wasn't something that had been in there yesterday. I took one more tiny step towards it and peeked inside. There were no clothes, boxes, hangers, or the old junk like there was from my 6th birthday. Instead, there was a narrow stone staircase leading downwards, which I couldn't see until the end. I froze for a while, wondering how that possibly could be there. Then from the bottom of the staircase, I heard something quiet. It sounded like something scraping against the stone. The sound got bigger, closer. I instinctively shut the closet. Maybe asking about the well could wait. Maybe I should ask him about the closet first.",
-    "A neighbor remembered the sound of typewriters through the ceiling — always after dark, always followed by laughter.",
-    "The sixth fragment was water-stained, as if it had waited a long time in someone's coat pocket before being found.",
-    "It described a ritual: each member arrived with one page and left with someone else's, so no story ever belonged to just one hand.",
+    "I was wondering. Why is this even happening? This is too weird. The mysterious yelling from the fridge was still making my heart pound hard.\n\nI started to look for something inside the house. I was looking in the bookshelf. There was nothing. What even where throws keywords? This is just making the mystery deeper and deeper. That was when I heard a knock on the door. “Who’s there?” I said. I have never expected a visitor. “I have mail” I went to the door and saw the mail man. He opened his mouth. “You seem very tired. Are you ok?” “No, I'm not ok. I am in a mystery that I can’t solve. Can you help me?” “I am not good at solving mysteries myself… however, I can tell you who might be able to help. His name is Arthynie. He lives in the woods. He is a very wise old man that solved many mysteries before. You should see him” After he left, I was in shock. The mail he gave, the mail was the address that does not exist. “Forest hotel” what is this please?？",
+    "I went back into my room and studied the mail. I opened the envelope and read the message.\n\n“Dear Mr. Arthynie,\n\nPlease meet at 22:00 at the graveyard we always go to.\n\nSincerely, JR.”\n\nWait, what. The mail man mentioned something about this, Artynie, and the letter he gave me was directed to him and it was from this guy JR. Why at 22:00 and what graveyard? A chill went up my spine. This reminded me of those horror movies where people meet at graveyards at night and then these creatures come out of the ground and start chasing the characters. I hate horror movies. After this awful thought, I came back to my senses and started to hear the fridge yelling at me. The sound was overwhelming so I decided to go outside. That was the worst decision I could’ve possibly made.",
+    "Waiting for me in the middle of the street in front of my house, under the amber glow of the street light, was a woodland creature. It was not of the fuzzy adorable variety however. I knew it came from the nearby forest because in its dusty patches of fur was the same yellow flower that grew along the main hiking trail.\n\nEvery Sunday, my dad and I loved to take walks along that path while we chatted about our hopes for the week. He usually had his fingers crossed for more days of croissants.\n\nOur normal routine was to walk for just fifteen minutes and then go back home, so we never did make it too far in the forest itself. It was barren, aside from its tall inhabitants. The only man-made structure that I recall seeing was a dilapidated shack that, unfortunately, had trash in it that we cleared out each time we visited.\n\nLast Sunday, my mom and our dog joined us for our walk along that trail. I remember making sporadic remarks to one another about hearing faint whispers. However, we never heard them at quite the same time. Even our dog’s ears would perk up suddenly and randomly when the air was as silent as a library.\n\nWere the whispers in our minds? Were they from my family playing tricks? Were they the vibrations of the universe?\n\nWhat I can answer is that I vividly remember two of the wispy whispers that I heard: “Don’t” followed by “open.”\n\nAt the time, when I asked my dad if he had just heard those words too, his response was, “No, but I’m guessing if there are any doors at the graveyard that I just heard a whisper say, then we should leave them sealed shut.”\n\nThat patchy little creature stood there in the street menacingly and meaningfully. Its eyes were locked on the letter in my hand as if the paper was its next meal. It slightly parted its lips and I suddenly heard a familiar whisper.",
+    "The thing, whatever it was. I felt as it was speaking directly into my skull. “I need blood.” I declined obviously, I am not giving some woodland creature my blood. I asked why, and it told me, “Experiences, to… live.” I had some tapes and pictures in my house. They were of my experiences and plain movies. Together, we observed, and through this, I felt like it was a true friend. But nothing ever lasts, as when I blinked. It was gone, replaced by a message. “Its open, you need to close it. For all of us.” Could’ve actually just told me instead of some cryptic message. I felt somewhat cross as this is just what happens in horror movies, I think. I’m usually too scared to concentrate on details. I hate horror movies, I feel like I’m in one right this moment. I went to the graveyard and found a door sitting there out in the open. I opened it, and saw almost endless stone corridors. I decided to go in.",
+    "The graveyard was unpleasant to say the least. Beyond its rusty, gold encrusted gates that have clearly seen better days, is a vast plain of head stones decorated with a layer of moss and depression. Nothing looked out of the ordinary, really. I mean, the graveyard always had an atmosphere of sorrow, regret, and sometimes a drizzle of gloominess.\n\nBut this time, it’s a bit different. I can feel that something’s not right.\n\nI can feel the unease wafting through the cold wind that pierces through my t-shirt. I can feel the discomfort soaking into me like the wet, overgrown ground soaking my socks making me fidget my toes. I can feel an unwelcome eeriness that covers this plain like a blanket, stealing the air from my lungs.\n\nI wish I could turn back, back to the warmth of my house that now makes me feel so desolate. My mom, who would always smell of freshly baked bread and a hint of honey, made our day with her smile so bright, it could easily make the sun shy away from shame, was missing. Our dog, Daisy, who could easily soothe our despondence with a simple lick and her adorable tail wag, went into the woods for her usual activities this morning and never came back. Dad too. He wasn’t there in our home when I came back from my walk.\n\nBut I can’t. I need to find Artynie or whoever it is, to help me find my family. So we can return to our normal lives again. So that when I step into our house my mom would hug me with her warm embrace. So that Daisy would wag her tail whilst jumping towards me, pawing her way through our embrace, and my dad smiling at us with a certain soft expression flashes across my mind.\n\nI let my feet carry me throughout the everlasting damp fields, as my eyes wander throughout the fields with a certain determination.\n\nAn old man. A wise old man…. Well, it’s clear that nobody would be walking around here at night.\n\nI sighed in defeat as I squatted down on the floor. It’s no use. I’ve walked around this graveyard forever. So much so that I can recall all the names inscribed on the headstones.\n\nMaybe I should head back for today. Maybe once I collect more clues and bring it with me next time, I can have a clearer vision of where I can start.\n\nI stood up from the ground and started heading back towards the gate, when suddenly the sound of a grandfather clock ringing in the distance echoed through the lonely yard.\n\nGoing once.\n\nNow that’s weird (As if anything I saw earlier was anything less). I walked around this plain for hours like that’s the only thing I can do, but I didn’t spot anything akin to a clock.\n\nGoing twice, thrice.\n\nMy brows furrowed as I began to jog through the graveyard in search of the source. Just where did it come from?\n\nGoing fourth, fifth, sixth.\n\nIt sounds like it’s coming from around the area where George Williams was buried—No, maybe around Stevens Johnson?\n\nGoing seventh, eighth, ninth.\n\n“Please! I’ll do whatever it takes! Just bring them back to me!”\n\n“Dad?”\n\nI felt my legs almost give out like jelly before Artynie caught my body. My body feels heavy as exhaustion suddenly takes over my body, binding it to the ground. I lift my head slowly as I take in the familiar silhouette in front of me.",
     "The eighth page was newer than the rest. Different ink. Someone was still writing this — right now, in the present tense.",
     "A line appeared: 'If you have gathered this far, you are not finding a story. You are being invited into one.'",
     "The tenth fragment gave no plot at all — only an address, and the words: 'Thursdays. Bring one page. Leave with another.'",
@@ -38,20 +40,17 @@
   ];
 
   // Add Japanese versions here later, in the same order as STORY.
-  const STORY_JA = Array(TOTAL_STAMPS).fill("ここに日本語のストーリーを追加してください。");
 
   // Optional hint shown next to each LOCKED journal entry, to nudge people without
   // spoiling the story. Leave an entry as "" for no hint on that stamp.
   const HINTS = [
     "", "", "", "", "", "", "", "", "", "", "", "", ""
   ];
-  const HINTS_JA = Array(TOTAL_STAMPS).fill("");
 
   // Rough location legend for the stamp map page (reached at ?map=1).
   // Leave entries as "" until you're ready to fill them in — the map page
   // already works with empty entries, it just shows "location coming soon".
   const STAMP_LOCATIONS = Array(TOTAL_STAMPS).fill("");
-  const STAMP_LOCATIONS_JA = Array(TOTAL_STAMPS).fill("");
 
   // Once you have a map image, put the file in this folder and set its name here,
   // e.g. "map.png". Leave as "" to show a placeholder instead.
@@ -81,10 +80,8 @@
   // ---------------------------------------------------------------
   const STORAGE_KEY = "inkTrailStamps_v1";
   const THEME_KEY = "inkTrailTheme_v1";
-  const LANGUAGE_KEY = "inkTrailLanguage_v1";
   const HOW_IT_WORKS_KEY = "inkTrailSeenHowItWorks_v1";
   const app = document.getElementById("app");
-  let activeLanguage;
 
   function applyTheme(theme) {
     document.documentElement.setAttribute("data-theme", theme);
@@ -100,8 +97,8 @@
     toggle.type = "button";
     function updateLabel() {
       const dark = document.documentElement.getAttribute("data-theme") === "dark";
-      toggle.textContent = activeLanguage === "ja" ? (dark ? "ライト" : "ダーク") : (dark ? "Light mode" : "Dark mode");
-      toggle.setAttribute("aria-label", activeLanguage === "ja" ? (dark ? "ライトモードに切り替える" : "ダークモードに切り替える") : (dark ? "Switch to light mode" : "Switch to dark mode"));
+      toggle.textContent = dark ? "Light mode" : "Dark mode";
+      toggle.setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
     }
     updateLabel();
     toggle.addEventListener("click", function () {
@@ -113,22 +110,14 @@
     app.appendChild(toggle);
   }
 
-  function initialLanguage() {
-    const savedLanguage = localStorage.getItem(LANGUAGE_KEY);
-    return savedLanguage === "ja" ? "ja" : "en";
-  }
   function storyText(index) {
-    return activeLanguage === "ja" && STORY_JA[index] ? STORY_JA[index] : STORY[index];
+    return STORY[index];
   }
   function hintText(index) {
-    return activeLanguage === "ja" && HINTS_JA[index] ? HINTS_JA[index] : HINTS[index];
+    return HINTS[index];
   }
   function locationText(index) {
-    return activeLanguage === "ja" && STAMP_LOCATIONS_JA[index] ? STAMP_LOCATIONS_JA[index] : STAMP_LOCATIONS[index];
-  }
-  function personText(person, field) {
-    const japaneseField = field + "Ja";
-    return activeLanguage === "ja" && person[japaneseField] ? person[japaneseField] : person[field];
+    return STAMP_LOCATIONS[index];
   }
   const UI = {
     en: {
@@ -138,25 +127,16 @@
       rallyKicker: "スタンプでつづる物語", title: "インク・トレイル", homeLead: "スタンプを見つけたらスキャンしてください。集めるたびに、下の物語のページが開きます。", about: "サークルについて", collected: "個のスタンプを集めました", journal: "フィールド・ジャーナル", completeTitle: "物語をすべて集めました", completeLead: "13ページすべてが見つかりました。物語が指していた先への扉が開きます。", stepThrough: "中へ進む", keepLooking: "まだ探し続けて", keepLookingLead: "残りのQRスタンプを見つけて、物語の続きを開きましょう。", reset: "進行状況をリセット", circleKicker: "ライティング・サークル", circleTitle: "未完成なもののための部屋", circleLead: "ライティング・サークルは、書き、読み、お互いのための場所をつくる小さな集まりです。", circleP1: "一枚のページを持ち寄り、別のページを持ち帰ります。磨かれた文章も、奇妙な文章も、まだ途中の文章も、この部屋に居場所があります。", circleP2: "このサークルで大切なのは、評価よりも向き合うこと。よく聴き、惜しみなく分かち合い、それぞれの声を大切にします。", meetPeople: "参加者", chooseName: "名前を選んで物語を読む", teachers: "先生", members: "メンバー", backBook: "スタンプ帳に戻る", memberStory: "メンバーの物語", teacherStory: "先生の物語", printPdf: "印刷またはPDFとして保存", backPeople: "参加者に戻る", collectedTitle: "を集めました！", alreadyTitle: "はすでに集めています", alreadyNote: "このスタンプはすでに見つけています。もう一度訪れても大丈夫です。", soFar: "個のスタンプを集めています。", openBook: "スタンプ帳を開く", adminKicker: "管理ハブ", adminTitle: "インク・トレイルを管理", testTitle: "進行状況をテストまたはリセット", adminNote: "これらの操作は、このブラウザーに保存された進行状況だけに作用します。", resetAll: "集めたスタンプをすべてリセット", qrTitle: "スタンプQRコードを印刷", qrLead: "下のQRコードは、それぞれ違うスタンプ番号のページにつながります。印刷して切り分け、各場所に置いてください。スキャンすると、そのスタンプが集まります。", baseUrl: "ベースURL:", print: "印刷", adminHidden: "この管理画面は、エンコードされた管理キーを使ったURLからのみ開けます。スタンプ帳からはリンクされていません。", stamp: "スタンプ", toReveal: "見つけるには", addStamp: "スタンプを追加", addedStamp: "追加済み", resetConfirm: "この端末の集めたスタンプをすべてリセットしますか？", howKicker: "遊び方", howStep1: "会場に隠されたQRコードを見つけましょう。おおよその場所は地図で確認できます。", howStep2: "スキャンしてスタンプを集めると、物語の1ページが開きます。", howStep3: "13個すべてのスタンプを集めると、ライティング・サークルへの扉が開きます。", howDismiss: "わかった、始めよう", mapNav: "スタンプマップ", mapKicker: "スタンプを探そう", mapTitle: "スタンプマップ", mapLead: "13個すべてのスタンプのおおよその場所です。詳しい地図は近日公開予定。今のところは一覧をご覧ください。", mapTbd: "場所は近日公開", mapPlaceholder: "地図画像は近日公開予定", mapAlt: "スタンプの場所を示す地図"
     }
   };
+  UI.en.circleLead = "The Writing Circle is a group that meets every Friday to write fiction! Our authors write in various genres from romance to adventure and horror. Come see what we have been working on!";
   function ui(key) {
-    return UI[activeLanguage][key] || UI.en[key] || key;
-  }
-  function addLanguageToggle() {
-    const toggle = document.createElement("button");
-    toggle.className = "language-toggle no-print";
-    toggle.type = "button";
-    toggle.textContent = activeLanguage === "ja" ? "English" : "日本語";
-    toggle.setAttribute("aria-label", activeLanguage === "ja" ? "Switch to English" : "日本語に切り替える");
-    toggle.addEventListener("click", function () {
-      localStorage.setItem(LANGUAGE_KEY, activeLanguage === "ja" ? "en" : "ja");
-      window.location.reload();
-    });
-    app.appendChild(toggle);
+    return UI.en[key] || key;
   }
 
   applyTheme(initialTheme());
-  activeLanguage = initialLanguage();
-  UI.ja.chooseName = "メンバーを選んでもっと知ろう！";
+  UI.en.readOtherStories = "Read other stories";
+  UI.en.otherStoriesTitle = "Read other stories";
+  UI.en.otherStoriesLead = "Stories from the Writing Circle will be added here.";
+  UI.en.backCircle = "Back to the circle";
 
   function loadStamps() {
     try {
@@ -311,7 +291,6 @@
     renderHome();
   }
   addThemeToggle();
-  addLanguageToggle();
 
   // ---------------- HOME ----------------
   function renderHome() {
@@ -440,25 +419,10 @@
       return;
     }
 
-    const personParam = params.get("person");
-    const personMatch = personParam ? personParam.match(/^(teacher|member)-(\d+)$/) : null;
-    if (personMatch) {
-      const personIndex = parseInt(personMatch[2], 10) - 1;
-      const personList = personMatch[1] === "teacher" ? TEACHER_STORIES : MEMBER_STORIES;
-      if (personIndex >= 0 && personIndex < personList.length) {
-        renderPerson(personList[personIndex], personMatch[1] === "teacher" ? "TEACHER STORY" : "MEMBER STORY");
-        return;
-      }
+    if (params.get("stories") === "1") {
+      renderOtherStories();
+      return;
     }
-
-    function peopleLinks(people, prefix) {
-      return people.map(function (person, index) {
-        const personId = prefix + "-" + (index + 1);
-        return '<article class="member-card"><a class="member-name" href="' + escapeHtml(baseUrl()) + '?circle=1&person=' + personId + '">' + escapeHtml(personText(person, "name")) + '</a><p>' + escapeHtml(personText(person, "intro")) + '</p></article>';
-      }).join("");
-    }
-    const teacherLinks = peopleLinks(TEACHER_STORIES, "teacher");
-    const memberLinks = peopleLinks(MEMBER_STORIES, "member");
 
     app.innerHTML =
       '<div class="content-page circle-page">' +
@@ -466,25 +430,18 @@
         '<h1>' + ui("circleTitle") + '</h1>' +
         '<p class="lead">' + ui("circleLead") + '</p>' +
         '<div class="prose"><p>' + ui("circleP1") + '</p><p>' + ui("circleP2") + '</p></div>' +
-        '<section class="members-directory" id="people"><p class="kicker">' + ui("meetPeople") + '</p><h2>' + ui("chooseName") + '</h2><div class="people-group"><h3>' + ui("teachers") + '</h3>' + teacherLinks + '</div><div class="people-group"><h3>' + ui("members") + '</h3>' + memberLinks + '</div></section>' +
-        '<div class="page-actions"><a class="btn secondary" href="' + escapeHtml(baseUrl()) + '">' + ui("backBook") + '</a></div>' +
+        '<div class="page-actions"><a class="btn" href="' + escapeHtml(baseUrl()) + '?circle=1&stories=1">' + ui("readOtherStories") + '</a><a class="btn secondary" href="' + escapeHtml(baseUrl()) + '">' + ui("backBook") + '</a></div>' +
       '</div>';
   }
 
-  function renderPerson(person, label) {
+  function renderOtherStories() {
     app.innerHTML =
-      '<div class="content-page person-page">' +
-        '<p class="kicker">' + (label === "TEACHER STORY" ? ui("teacherStory") : ui("memberStory")) + '</p>' +
-        '<h1>' + escapeHtml(personText(person, "name")) + '</h1>' +
-        '<p class="lead">' + escapeHtml(personText(person, "intro")) + '</p>' +
-        '<article class="person-story"><p>' + storyHtml(personText(person, "story")) + '</p></article>' +
-        '<div class="page-actions person-actions">' +
-          '<button class="btn" id="printPerson" type="button">' + ui("printPdf") + '</button>' +
-          '<a class="btn secondary" href="' + escapeHtml(baseUrl()) + '?circle=1">' + ui("backPeople") + '</a>' +
-        '</div>' +
+      '<div class="content-page circle-page">' +
+        '<p class="kicker">' + ui("circleKicker") + '</p>' +
+        '<h1>' + ui("otherStoriesTitle") + '</h1>' +
+        '<p class="lead">' + ui("otherStoriesLead") + '</p>' +
+        '<div class="page-actions"><a class="btn secondary" href="' + escapeHtml(baseUrl()) + '?circle=1">' + ui("backCircle") + '</a></div>' +
       '</div>';
-
-    document.getElementById("printPerson").addEventListener("click", function () { window.print(); });
   }
 
   // ---------------- COLLECT (from a scanned QR) ----------------
