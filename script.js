@@ -50,7 +50,13 @@
   // Rough location legend for the stamp map page (reached at ?map=1).
   // Leave entries as "" until you're ready to fill them in — the map page
   // already works with empty entries, it just shows "location coming soon".
-  const STAMP_LOCATIONS = Array(TOTAL_STAMPS).fill("");
+  const STAMP_LOCATIONS = [
+    "Class 2D (2nd Grade Interclass)",
+    "Class 2D (2nd Grade Interclass)",
+    "Class 2D (2nd Grade Interclass)",
+    "Class 2D (2nd Grade Interclass)",
+    "", "", "", "", "", "", "", "", ""
+  ];
 
   // Once you have a map image, put the file in this folder and set its name here,
   // e.g. "map.png". Leave as "" to show a placeholder instead.
